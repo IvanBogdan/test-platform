@@ -1,0 +1,10 @@
+POST http://localhost:807/quote
+Content-Type: application/json
+
+{
+  "isin": "RU000A0JX0J3",
+  "bid": "46",
+  "ask": "65"
+}
+
+###
